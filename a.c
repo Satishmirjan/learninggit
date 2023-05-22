@@ -3,6 +3,6 @@
 
  
 int main()
-{ptintf("hello");
+{ptintf("hello best");
     return 0;
 }
