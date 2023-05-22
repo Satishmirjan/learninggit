@@ -2,6 +2,6 @@
  
 int main()
 {
-    std::cout << " day";
+    std::cout << "my day";
     return 0;
 }
