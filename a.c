@@ -1,7 +1,7 @@
-#include <iostream>
+#include <stdio.h>
+
  
 int main()
-{
-    std::cout << "" day";
+{ptintf("hello");
     return 0;
 }
